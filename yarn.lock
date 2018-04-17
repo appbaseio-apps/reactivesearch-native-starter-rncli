@@ -10,9 +10,9 @@
     redux "^3.7.2"
     redux-thunk "^2.2.0"
 
-"@appbaseio/reactivesearch-native@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch-native/-/reactivesearch-native-0.7.0.tgz#fb5d792f03bb4a2a2deeb5e85b51e36b37e57772"
+"@appbaseio/reactivesearch-native@^0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch-native/-/reactivesearch-native-0.7.1.tgz#4bdaa2c0ca5756b6ac0532f827691b5e74bf603b"
   dependencies:
     "@appbaseio/reactivecore" "^1.5.3"
     "@ptomasroos/react-native-multi-slider" "^0.0.11"
